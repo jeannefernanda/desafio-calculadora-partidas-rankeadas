@@ -1,2 +1,2 @@
 # desafio-calculadora-partidas-rankeadas
-Primeiro desafio do Bootcamp Javascript do Zero do Dio.me
+Desafio do Bootcamp Javascript do Zero do Dio.me
